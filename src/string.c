@@ -8,7 +8,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <memory.h>
-#include <malloc.h>
+#include "malloc.h"
 #include <pthread.h>
 #include <stdint.h>
 #include <stdarg.h>

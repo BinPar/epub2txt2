@@ -13,7 +13,7 @@
 #include <sys/types.h>
 #include <sys/stat.h>
 #ifndef __APPLE__
-#include <malloc.h>
+#include "malloc.h"
 #endif
 #include "epub2txt.h" 
 #include "log.h"

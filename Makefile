@@ -4,7 +4,7 @@ CFLAGS  := -Wall -fPIC -fPIE
 LDLAGS  := -pie 
 DESTDIR :=
 PREFIX  := /usr
-BINDIR  := /bin
+BINDIR  := /local/bin
 MANDIR  := /share/man
 APPNAME := epub2txt
 
